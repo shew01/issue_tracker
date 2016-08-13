@@ -1,0 +1,814 @@
+﻿<File version="2.1">
+  <FileID>003da913-634a-4bb1-bc4f-64cb6a9cc34e</FileID>
+  <Preview>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
+Q+57HQDy1NjXtz/9h3I4nT4pSbrOOp7K/7Lc9PSBS48k8zO7HR0d0d7eHnv27Lkm6+zsjJaWlhgf
+H0/34y/PYLS1tRXHPtt1fmrln8GuXbuKfxfg5MmTl34GF/uenwE4Hv39g/HJJ58U/yoRANefsfHJ
+mJqavjQA5K9dXV0xMjISo6Oj12R54e/u7i5OXxwA8rMYeWG8ctufamNjY2kN7i8GgNlexvlBBoCz
+Z89e+M8IgOvN6NjErAPA0NBQDA8Pf2VDQ8Mxma4/PTVZPC0/NjoSQ7NsN2sjo8V1Rma77K+UF8B8
+jPnrlQPAbNsXpfszOjZe3F6+v1OTE195H/MQlLvy/PyyyaHDR2JiLA1J6eeX7/tf39dQjIyOpdue
+Lk7Pvs03Kx/Xvn37DAAAfDvfdQCYmBiPhi2V8fIri+KlBa9G297+mDl4MA4ePFAs0Hk4OH96pDid
+F96JycmYmTkUkyM98daSd2Nk6lBMpf183dv8NgNAvp9D+/bE6wvmxwvPvhCVW7bHgXScB6an032Y
+KE5PTU2kfY6l402n03GOpYFhYnw8xtPl+bzJdIzDafGfGO6LF556pPiH7DpbamLF2qqYOXT4/Dbp
+vuWfyfj4RIynR+n5vubT+zpb4u2ly9J9nSl+PnlfeSA5v9+0bdom/4zyseRH9/l4pqcn0+3N/jMx
+AADwnXyXAWAkPYKfmRiIm2/8f+PN1Vtj04Y10dzRHbsb66Kyoir69vdH/daNUbl+U+wfGIwdtZtj
+S21TtO3cHh+tXBUN9RviV7+4Md5esTbaOnuKBXO227mybz4AjMTMgYl4+ckH4vUV1dHX1hDPvbAg
+Wjt2x/oN1bG7vT2qKyujvmlX9O3dE+sqKqO1szdWvzk/Hnj21Rgc6I3KdHnzrj0xMTUV08N743//
+n/9V/PrhxVG/8YN4+PnFabjoLrZpbGqK1t17Ym9ne3Tu7Y3Wxobo2j8avTur43e33hkdvX2xYf36
+qG/cFft6umJ9Ol3b0Bzt7W3R27cvdrW0RN++nuJ4auqbYjQNILPdJwMAAN/Jd30GIP82WFPdxnjk
+oXvijnvmxZoP3o0bf/WbuOe2m+PJFxfGksUvx29v/Kd47uVXY86c38eyFR/GXXfeFavWro1FC56O
+G2+4Kea/8Hzc98iLMTFz6Gu9HPCNB4A0qBwc64l7b78tWnon49DMgeIj7uc/dmc8Mv/VeOqhOXH7
+XXPjppt+H+8uWx6PPnhv/PJ3f4gXn3os7n/kyXjovjvinvvmxm9uvjP2jhyM8b7d8eRT8+Lhhx+K
+OQ8+FC+8+Ezcefst8cB99xT39eEnno+7f39j3PHgY3HfPfcU/5z9/rYtcf+DD8bj89J+brot3k1D
+zytPPxC/+u3N8dZ7K+L5xx+Ozdt2xnMP3pWO5Y64fc7c+NU//TI2NXfH9MQXB6NrYgA4d+7chf+M
+ALjefKcBIC2so/17Y9261TF64FC89tQf4ze//nX85g/3xntLXou5986JuQ8/EU8+MCd++/s5Me+5
+56JjV1387vd3Rs/+wVi+5IX45U33RVtjfdyZhoehg9/TAFA8AzAZC595KBYvq4iu5pp4ZeHr8fRT
+D8f6uh3x6J2/iqcWLonnn/xj3P6HO+OF+S/HL/7TP8TTz86PF55/IW7+3Y3xp7ffTQv4Q7FncCrG
+e1tjzty56T7sjX/7b/7b+MXNt8fvfndzLF36djz70oJ44p6b4//6h9/G737+H+Lmh16OIydPR3dz
+Vfz+lj/Euur18fyjc+PXaZhYXVmRhoCH4qZb74j7594bH6xYHff89ob4+5+n237lrXgsDSJVO/Zc
+mwPAvn39cerU6fj0008lSddZn6QGh0a/9QCQF+DBgf548uE58Ysbfxs333ZXbK7ZEivfezsWvrI4
+qjdtijfefC0WLFgUH65cG2vXV8TwxFRULH87XnrpxXj7vWWxYmVFdLbvjpWrK9Nlk9/TAJAWzLHx
+GOnvjiWvvhLzX3gpapvao3ZzRexo746ONBAsWLgoli77KDZUrooFry6Oxa++FXV1W+Otd96LjRsq
+YtGiRfHeh+tidHI67WdvfPjRhzE2cySqPnonlq6pjq2VK2PRwgVRubUxGreujQ8rt0TVqmWxdnNj
+HDxwIPZ3t8VHH62M9ZVrYsnb78RHqypi08aKeCudXp5+BvXbqtNxPReLXns76upr4tWFi+O1N96N
+3sE0ZKXF/gv358ceAEZGxqIvDQH9A0OSpOus/f2Dxd/h+cNkvu0A0NvbF5Xrq4rXtauqNkRDQ0Mc
+Svs7cDC/236qWPwOzswUb7bL3+frTR/Ib3A7kM7LTcXo2Fj6Pl32NV92+DYDwF9+C+Bg8ZsA+U14
+E5Pp0fzYaIynoSQfZ36Xfv5wnXx6Zub8G/ryeXlAytcp3sWfj3FktNgun54+MBMH07FPpe/zvs+/
+yTGdzufl+3nhtw3ybwFMF/uaKq6bm0q3f/70VLqtdAwHD1643ani53cwv3lyZJb7kvpRB4DiBtIQ
+kD8RMP8HI0m6/sp/j1/+93o+L/+OfV5g8gL718rb5Hes50/gu1he0L7Odb9LX/Y5APnDca7c9qfa
+j/o5AJKkn155INi9e3fxCHvv3r3XZD09PcUnAeaF8PLFL38yXh4MZrvOT638M8if1phP/+CfBChJ
++umVnwHIj7AHBgaKp66vxQYH879BM1j8mwX5eC8edx4I8vmzXeenWP4zyi8pXPwZXJ4BQJL0jcvP
+AuRHlfnR9bVaPr4rF77Ztvspl38GV76EczEDgCRJJex7GwDymy3y9PHnP/85PvvsM0mS9COUf53z
+8vX5Yt/bAJCfdsjv8ly6dGm8//77sWzZMkmS9ANXUVEx68sA39sAkD/9r7a2Nn7961/Hyy+/HM89
+95wkSfqBu+222z73ZsiLfW8DQP78//r6+nj00UeLf/xg5cqVkiTpBy6vw/kDhH7wAeCPf/xjrFmz
+Jj744ANJkvQDN2/ePAOAJEllywAgSVIJMwBIklTCDACSJJUwA4AkSSXMACBJUgkzAEiSVMIMAJIk
+lTADgCRJJcwAIElSCTMASJJUwgwAkiSVMAOAJEklzAAgSVIJMwBIklTCDACSJJUwA4AkSSXMACBJ
+UgkzAEiSVMIMAJIklTADgCRJJcwAIElSCTMASJJUwgwAkiSVMAOAJEklzAAgSVIJMwBIklTCDACS
+JJUwA4AkSSXMACBJUgkzAEiSVMIMAJIklTADgCRJJcwAIElSCTMASJJUwgwAkiSVMAOAJEklzAAg
+SVIJMwBIklTCDACSJJUwA4AkSSXMACBJUgkzAEiSVMIMAJIklTADgCRJJcwAIElSCTMASJJUwgwA
+kiSVMAOAJEklzAAgSVIJMwBIklTCDACSJJUwA4AkSSXMACBJUgkzAEiSVMIMAJIklTADgCRJJcwA
+IElSCTMASJJUwgwAkiSVMAOAJEklzAAgSVIJMwBIklTCDACSJJUwA4AkSSXMACBJUgkzAEiSVMIM
+AJIklTADgCRJJcwAIElSCTMASJJUwgwAkiSVMAOAJEklzAAgSVIJMwBIklTCDACSJJUwA4AkSSXM
+ACBJUgkzAEiSVMIMAJIklTADgCRJJcwAIElSCTMASJJUwgwAkiSVMAOAJEklzAAgSVIJMwBIklTC
+DACSJJUwA4AkSSXMACBJUgkzAEiSVMIMAJIklTADgCRJJcwAIElSCTMASJJUwgwAkiSVMAOAJEkl
+zAAgSVIJMwBIklTCDACSJJUwA4AkSSXMACBJUgkzAEiSVMIMAJIklTADgCRJJcwAIElSCTMASJJU
+wgwAkiSVMAOAJEklzAAgSVIJMwBIklTCDACSJJUwA4AkSSXMACBJUgkzAEiSVMIMAJIklTADgCRJ
+JcwAIElSCTMASJJUwgwAkiSVMAOAJEklzAAgSVIJMwBIklTCDACSJJUwA4AkSSXMACBJUgkzAEiS
+VMIMAJIklTADgCRJJcwAIElSCTMASJJUwgwAkiSVMAOAJEklzAAgSVIJMwBIklTCDACSJJUwA4Ak
+SSXMACBJUgkzAEiSVMIMAJIklbAfbQB47LHHYsOGDbF69WpJkvQD9+ijj8aBAwd+uAHg3LlzUVdX
+FzfccEM888wz8fjjj0uSpB+4W2+9NQ4dOvTDDQAnTpyIycnJ4tG/JEn6cWpoaIjjx49/bo3OfW8D
+wJEjR4ob/PTTTyVJ0o9Ufkb+8vX5Yt/bACBJkq7dDAA/4Y4fP1Y8C3N1+/xrSJKk6zMDwE+4yamp
+GJ+YjImr1PjERExPT896W5L0bctvTrvyDWrXWrMd4/V63Bf7QQaA/H6As598Gmc/PhVHjx2Pjz8+
+HUfTebNtW5S2OXPmzDcaKo4cPZb2+3Fxh/LtnTr9cZxIj1bz+WeLff2V2/uJNj4+GSOj4zE6dnUa
+S3Xv7YuZmZlr/j96SddH+Q3jo6OjsXv37ujq6orOzs5rsvb29ti3b19xvBePe3h4+Jo+7nxc+fgG
+BgYuHfflff8DQFoozp05FQufui8qGvvi+FRvLPtobZz7LIqnlD/++ExR8UaFs2fj03T+yYOD8fqb
+y+LUpxEfnzqZFvPzl59Op09/fDY+OXe2OPCjeXE/90m6Ttrw0zOx4cOlsaG2Lc6ly7euezeenr8g
+lrz2SrzzUWWcSjf457Rdvo0zZz6OkydPnv966lTxmQXn0oDy6SfnflLPZJw4cbz4Q79anTl9Ov0H
+PxIHDnzxAyUk6duU/27p7++P7u7uYkEdGhq6Jtu/f3+xoObjzced15A8EPT29l6zx52Pq6+vL/bu
+3XvpuC/vBxkAPjt3Ku664X+L//Uf50T3nqZ45Omno7tnf0xMTMTuXbtid9vOWLVqVdTWN0RF5cbY
+19MSv/nFL+PNZaujf+xgDPW2R2VFRXT1DUZn2/ZYu35LOuj0KP/UsajftD4+WLE29nftjP/47/99
+VLUORMSf4/WXHo0VW1vTBDERd911Z+zauz9WrVgRW+oaYufOthgZGY7Wto4YGeyLutq62LapOqo2
+boupQ/mHYnGbrZPpP6DBoWEDgKSrVl6Y8iPUnp6e9PfySLFofVl5URubmIxDh2bi4MxMTE9NxvCF
+he585x+gjI2OxNBl17u8vI+JyamYGB9Lp2ffZrbykHL5QpoHgDwU5AX2q477SxsZTffjUPEpfQcP
+TMfIhfPzceWXcMdGR794nW9QPq6LQ8qPNgCcO3EoFi18MTU/7rh7Tix8Y0E8+/hz0d3ZHU88eF/M
+nXd/vPb6a/H7W+6I19PXZ59/Ii3aD0TlulVx7523xa9vuiWeevLReHjek/HAA3fE0sr6+Dg9ou9q
+WBt3Pfx81FQsj4cefjBuSddv6pssBoClC+bF3Y89H888eFvMf/29WPT8Y7G8sjYWPfdg3HjTnfHS
+c4/F3//8V7Fo0Utx+x/uiNtvvT2eenZRDE4eSgvdF39fUgYASVe/bzIAjI1PxJ7W7fHO0nfjvXff
+iU11TcViPj4+XjQxNhTVletid/f+mJqcKF5ayOefX0hHitNTUxPRtL0udnX0FNvMdjuzdbUHgJG0
++A8P9MaqD5bGe8uWxQerK2Nw9PyxTk2OR+3m6ujoHYzDMweuGHK+ftfEAPDJyUMx7+G50X/gSNz1
+j/82/u9b7o2Fzz0bH33wQdzx+1vj4XS6sWl7PJQW+MZtG+OeO26Km29/IBrqt8XcP9wUN9x0e6xY
+sTzmv/xKPPrEI9E+cjD+/NmfY8+2lTH3yVeiadNH8cc/PhIPPjAv9k6eKAaAP81/JFZs2x1jHZvj
+/vsfjscfmxeVdS3x0lPzYsmbb8Tf/bv/M15MQ8H/8R9+GW2dnbFs6ZvxT//fP0TVzr745Mzp2e9L
+yTMASLrafZMBYObwkVi68PF4+MXXYn9nc9x2683RtHc4ejraoqd/NFo2vh8/v/HW6BoYja709/rA
+4GDsam2Jnv1DMZ0W/rZdrTE0NhIvPjo3nnr53WJhHR8bm/W2ruxqDwBjE9PR2Vgdv7v1lqhtao2G
+xubY09kVk9MHYqi/N9atXRvrVq6I195aFiMTk+k2Zt/PX+vHHwBSJ48ficY0cU0dPR2jPbuismZH
+dO/aEUuWLInqTduiKf0BDQ4OxPbtTTG4vy927GiIig/fjzfeejf2j09Hd0t9vL/svWhs7Uh/mE0x
+MjUTJ44fj1Mnj8Smio/irTffjX2Dw7Gjvj7GZ47G6dOnor21Mbr7R+Lc2ZNRu3Vj7G7fHe+k21tT
+3RAnjh2IDdWbYniwL6q3bI/xod744IOVUVG5OSZmDnsJ4EsyAEi62n2TAeDgoSOx/LWnY868Z2LD
+qnfjoUcej2XvLYm759wdd825Nx69f0788pb7YuHLT8S8Z1+JBS8+GXfPvT/mpgeBL73wdNx8213x
+zvLV8dIT96XTd8eD6fzm7oGYSEPBbLd3eVd/AJiKnpYtccMNP4833nkv1mzYEuuWvxH3zpkTT81/
+JV5asCCemTc3/v6Xt8TQ1MEY/Ra3cU0MAEdSZ86cjeNHj8TJ02fik7Nn4tTHZ+Kzzz4r3rB35uOP
+08HlN+WdiRPph5q3/eTTz9Lln6ZF/kScTt/nNwGe+fh08YbB4t39xW8RHItzn3xyYbt0vbPn3xyY
+LzudtsvXPZKO7ezZc2ko+LjYxyfnzqTF60R88sm59Ad4qvj+xIlTxWX5TYDF9a84fp3PACDpavdN
+BoCZw0fj3UWPx9xnFsbqt56Lu+5/Ih677/a496mFMf+pR+LJxx6LFxYuiVdefDzW1zbEnb/6TzH/
+jffikQfnxuK33o75z8yL+x76Y9x91x2xorIuFjz6UHxUuysOTH71swDfxwDQsX1DzHngoRieOlR8
+Pz2wO/6Xf/3fxKIPN8X8Jx+KZ5+dH8+89EbMHDvype9p+GtdEwOAfpzyH/jV7OPTp4sBYNoAIOkq
+lf9u+boDQP67Z92KJfFhdV18evpwvPzc47Fk6dJ4/uln4/kXF8Tqjz6IN5euiBXvL4malj1R/dHb
+8dTz8+PlBa9FReXaWLR4cTzx5DMx/5WXo2rLjvjgjT/F1paumBz/6jfbXe0BYHR8MvbvaYy5d98W
+C1/9U7y99P144uGH4/n06H/e3Hvij088ExXrVse8R56Izv7RGB+9Tp8B0I/T8PBo+h9rKAYHh69K
+A6m9PX2z/qtSkvRt+iYDwPDwUIyOjV32pr6x4rfJBvb3xcDQSExOTsTY2GhqrNhX/gfp9vX1xvDY
+RFrkx6I330Y6PZXOz0+p5+2+7lPrV3sAyI2k+zEyNFjsN+9/5ao18fY778Sbb7ye9rsvpqamYiTd
+54HB6/VNgPrRygt1/tCeq9nhw0f8WUu6an2zAeD8onZxu4un87v980J+8fvLy5fNdvryrryN2fo+
+BoDhfPv52C8cV17wi18JTOXz8jbf5BivLF/PACBJuibLC1NeSPfs2VMssvn0tVgeUPKn610+AOTF
+P3840LV63Pm48gcsXT64XJ4BQJL0o5U/ETY/jZ8X0rzIXqvl48sfInRxIc3HnV9CuB6OOz8TYACQ
+JF1z5cU0P6LOi9S1XD7On8JxXzp+A4AkSeXLACBJUgm7KgNA/uCcE2lHeWeSJOna7+TxozE58x0H
+gLE0QUym8iQhSZKu/fLiPzR1LLq/zQCwNy3+uTw9SJKk66u8+Od1/GsPAIvfWLL84NkoriBJkq7v
++mc+jb6xI189ADz7/PzKyaPnpwVJknR91zd2NLr2j3/1AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfImf/ez/
+B1/ZX2MviveZAAAAAElFTkSuQmCC</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="formMain" children="Controls">
+    <Property name="AutoScaleDimensions">10, 20</Property>
+    <Property name="AutoScaleMode">Font</Property>
+    <Property name="CancelButton">
+      <Reference name="buttonExit" />
+    </Property>
+    <Property name="ClientSize">1460, 557</Property>
+    <Property name="Margin">8, 8, 8, 8</Property>
+    <Property name="Name">formMain</Property>
+    <Property name="Text">Search for Issue</Property>
+    <Event name="Load">formMain_Load</Event>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonRefresh" children="Controls">
+      <Property name="Anchor">Bottom, Right</Property>
+      <Property name="Location">1180, 508</Property>
+      <Property name="Margin">5, 5, 5, 5</Property>
+      <Property name="Name">buttonRefresh</Property>
+      <Property name="Size">125, 35</Property>
+      <Property name="TabIndex">8</Property>
+      <Property name="Text">Refresh</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">buttonRefresh_Click</Event>
+    </Object>
+    <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="textboxNumberOfRows_QTY" children="Controls">
+      <Property name="Anchor">Bottom, Left</Property>
+      <Property name="Location">200, 508</Property>
+      <Property name="Margin">8, 8, 8, 8</Property>
+      <Property name="Name">textboxNumberOfRows_QTY</Property>
+      <Property name="ReadOnly">True</Property>
+      <Property name="Size">164, 26</Property>
+      <Property name="TabIndex">7</Property>
+    </Object>
+    <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelNumberOfRows" children="Controls">
+      <Property name="Anchor">Bottom, Left</Property>
+      <Property name="Location">22, 508</Property>
+      <Property name="Margin">8, 0, 8, 0</Property>
+      <Property name="Name">labelNumberOfRows</Property>
+      <Property name="Size">278, 54</Property>
+      <Property name="TabIndex">6</Property>
+      <Property name="Text">Number of Rows</Property>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonCreateNewIssue" children="Controls">
+      <Property name="Anchor">Top, Right</Property>
+      <Property name="Location">1258, 18</Property>
+      <Property name="Margin">5, 5, 5, 5</Property>
+      <Property name="Name">buttonCreateNewIssue</Property>
+      <Property name="Size">182, 35</Property>
+      <Property name="TabIndex">3</Property>
+      <Property name="Text">Create New Issue</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">buttonCreateNewIssue_Click</Event>
+    </Object>
+    <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="textboxSearch" children="Controls">
+      <Property name="Anchor">Top, Left, Right</Property>
+      <Property name="Location">22, 18</Property>
+      <Property name="Margin">8, 8, 8, 8</Property>
+      <Property name="Name">textboxSearch</Property>
+      <Property name="Size">1089, 26</Property>
+      <Property name="TabIndex">1</Property>
+      <Event name="KeyDown">textboxSearch_KeyDown</Event>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonSearch" children="Controls">
+      <Property name="Anchor">Top, Right</Property>
+      <Property name="Location">1123, 18</Property>
+      <Property name="Margin">5, 5, 5, 5</Property>
+      <Property name="Name">buttonSearch</Property>
+      <Property name="Size">125, 35</Property>
+      <Property name="TabIndex">2</Property>
+      <Property name="Text">&amp;Search</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">buttonSearch_Click</Event>
+    </Object>
+    <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="datagridviewResults" children="Controls">
+      <Property name="AllowUserToAddRows">False</Property>
+      <Property name="AllowUserToDeleteRows">False</Property>
+      <Property name="Anchor">Top, Bottom, Left, Right</Property>
+      <Property name="Location">20, 65</Property>
+      <Property name="Margin">5, 5, 5, 5</Property>
+      <Property name="Name">datagridviewResults</Property>
+      <Property name="ReadOnly">True</Property>
+      <Property name="SelectionMode">FullRowSelect</Property>
+      <Property name="Size">1420, 429</Property>
+      <Property name="TabIndex">2</Property>
+      <Event name="ColumnHeaderMouseClick">datagridviewResults_ColumnHeaderMouseClick</Event>
+      <Event name="DoubleClick">datagridviewResults_DoubleClick</Event>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonExit" children="Controls">
+      <Property name="Anchor">Bottom, Right</Property>
+      <Property name="DialogResult">Cancel</Property>
+      <Property name="Location">1315, 508</Property>
+      <Property name="Margin">5, 5, 5, 5</Property>
+      <Property name="Name">buttonExit</Property>
+      <Property name="Size">125, 35</Property>
+      <Property name="TabIndex">4</Property>
+      <Property name="Text">E&amp;xit</Property>
+      <Property name="UseVisualStyleBackColor">True</Property>
+      <Event name="Click">buttonExit_Click</Event>
+    </Object>
+  </Object>
+  <Code><![CDATA[param
+(
+	[string]$SearchStatusGroup_CDE  = "N/A",
+	[string]$SearchStatus_CDE       = "N/A",
+	[string]$SearchIssue_ID_STR     = "N/A",
+	[string]$SearchWildCardText_STR = "N/A"
+) # End of param
+
+#region Control Helper Functions
+function Load-DataGridView
+{
+	<#
+	.SYNOPSIS
+		This functions helps you load items into a DataGridView.
+
+	.DESCRIPTION
+		Use this function to dynamically load items into the DataGridView control.
+
+	.PARAMETER  DataGridView
+		The ComboBox control you want to add items to.
+
+	.PARAMETER  Item
+		The object or objects you wish to load into the ComboBox's items collection.
+	
+	.PARAMETER  DataMember
+		Sets the name of the list or table in the data source for which the DataGridView is displaying data.
+
+	#>
+	Param (
+		[ValidateNotNull()]
+		[Parameter(Mandatory=$true)]
+		[System.Windows.Forms.DataGridView]$DataGridView,
+		[ValidateNotNull()]
+		[Parameter(Mandatory=$true)]
+		$Item,
+	    [Parameter(Mandatory=$false)]
+		[string]$DataMember
+	)
+	$DataGridView.SuspendLayout()
+	$DataGridView.DataMember = $DataMember
+	
+	if ($Item -is [System.ComponentModel.IListSource]`
+	-or $Item -is [System.ComponentModel.IBindingList] -or $Item -is [System.ComponentModel.IBindingListView] )
+	{
+		$DataGridView.DataSource = $Item
+	}
+	else
+	{
+		$array = New-Object System.Collections.ArrayList
+		
+		if ($Item -is [System.Collections.IList])
+		{
+			$array.AddRange($Item)
+		}
+		else
+		{	
+			$array.Add($Item)	
+		}
+		$DataGridView.DataSource = $array
+	}
+	
+	$DataGridView.ResumeLayout()
+}
+
+function ConvertTo-DataTable
+{
+	<#
+		.SYNOPSIS
+			Converts objects into a DataTable.
+	
+		.DESCRIPTION
+			Converts objects into a DataTable, which are used for DataBinding.
+	
+		.PARAMETER  InputObject
+			The input to convert into a DataTable.
+	
+		.PARAMETER  Table
+			The DataTable you wish to load the input into.
+	
+		.PARAMETER RetainColumns
+			This switch tells the function to keep the DataTable's existing columns.
+		
+		.PARAMETER FilterWMIProperties
+			This switch removes WMI properties that start with an underline.
+	
+		.EXAMPLE
+			$DataTable = ConvertTo-DataTable -InputObject (Get-Process)
+	#>
+	[OutputType([System.Data.DataTable])]
+	param(
+	[ValidateNotNull()]
+	$InputObject, 
+	[ValidateNotNull()]
+	[System.Data.DataTable]$Table,
+	[switch]$RetainColumns,
+	[switch]$FilterWMIProperties)
+	
+	if($Table -eq $null)
+	{
+		$Table = New-Object System.Data.DataTable
+	}
+
+	if($InputObject-is [System.Data.DataTable])
+	{
+		$Table = $InputObject
+	}
+	else
+	{
+		if(-not $RetainColumns -or $Table.Columns.Count -eq 0)
+		{
+			#Clear out the Table Contents
+			$Table.Clear()
+
+			if($InputObject -eq $null){ return } #Empty Data
+			
+			$object = $null
+			#find the first non null value
+			foreach($item in $InputObject)
+			{
+				if($item -ne $null)
+				{
+					$object = $item
+					break	
+				}
+			}
+
+			if($object -eq $null) { return } #All null then empty
+			
+			#Get all the properties in order to create the columns
+			foreach ($prop in $object.PSObject.Get_Properties())
+			{
+				if(-not $FilterWMIProperties -or -not $prop.Name.StartsWith('__'))#filter out WMI properties
+				{
+					#Get the type from the Definition string
+					$type = $null
+					
+					if($prop.Value -ne $null)
+					{
+						try{ $type = $prop.Value.GetType() } catch {}
+					}
+
+					if($type -ne $null) # -and [System.Type]::GetTypeCode($type) -ne 'Object')
+					{
+		      			[void]$table.Columns.Add($prop.Name, $type) 
+					}
+					else #Type info not found
+					{ 
+						[void]$table.Columns.Add($prop.Name) 	
+					}
+				}
+		    }
+			
+			if($object -is [System.Data.DataRow])
+			{
+				foreach($item in $InputObject)
+				{	
+					$Table.Rows.Add($item)
+				}
+				return  @(,$Table)
+			}
+		}
+		else
+		{
+			$Table.Rows.Clear()	
+		}
+		
+		foreach($item in $InputObject)
+		{		
+			$row = $table.NewRow()
+			
+			if($item)
+			{
+				foreach ($prop in $item.PSObject.Get_Properties())
+				{
+					if($table.Columns.Contains($prop.Name))
+					{
+						$row.Item($prop.Name) = $prop.Value
+					}
+				}
+			}
+			[void]$table.Rows.Add($row)
+		}
+	}
+
+	return @(,$Table)	
+}
+#endregion
+
+#region Search Function
+function SearchGrid()
+{
+	$RowIndex = 0
+	$ColumnIndex = 0
+	$seachString = $textboxSearch.Text
+	
+	if($seachString -eq "")
+	{
+		return
+	}
+	
+	if($datagridviewResults.SelectedCells.Count -ne 0)
+	{
+		$startCell = $datagridviewResults.SelectedCells[0];
+		$RowIndex = $startCell.RowIndex
+		$ColumnIndex = $startCell.ColumnIndex + 1
+	}
+	
+	$columnCount = $datagridviewResults.ColumnCount
+	$rowCount = $datagridviewResults.RowCount
+	for(;$RowIndex -lt $rowCount; $RowIndex++)
+	{
+		$Row = $datagridviewResults.Rows[$RowIndex]
+		
+		for(;$ColumnIndex -lt $columnCount; $ColumnIndex++)
+		{
+			$cell = $Row.Cells[$ColumnIndex]
+			
+			if($cell.Value -ne $null -and $cell.Value.ToString().IndexOf($seachString, [StringComparison]::OrdinalIgnoreCase) -ne -1)
+			{
+				$datagridviewResults.CurrentCell = $cell
+				return
+			}
+		}
+		
+		$ColumnIndex = 0
+	}
+	
+	$datagridviewResults.CurrentCell = $null
+	[void][System.Windows.Forms.MessageBox]::Show("The search has reached the end of the grid.","String not Found")
+	
+}
+#endregion
+
+function post_data_on_form
+{
+	if ($Debug_SW -eq 1)
+	{
+		Write-Host "----------------------------------------"
+		Write-Host "`$User_SW                = $User_SW"
+		Write-Host "`$SearchStatusGroup_CDE  = $SearchStatusGroup_CDE"
+		Write-Host "`$SearchStatus_CDE       = $SearchStatus_CDE"
+		Write-Host "`$SearchIssue_ID_STR     = $SearchIssue_ID_STR"
+		Write-Host "`$SearchWildCardText_STR = $SearchWildCardText_STR"
+	}
+
+	<###############################################################
+	#
+	# Define the base SQL statement
+	#
+	###############################################################>
+
+	[string]$SQLCommand_STR = "
+select
+	i.assignee_cde,
+	i.issue_id,
+	i.status_cde,
+	i.queue_order_nbr,
+	i.status_dte,
+	i.location_cde,
+	i.customer_cde,
+	i.short_dsc,
+	substring(i.long_dsc, 1, 150) as long_dsc,
+	i.create_dte,
+	i.due_dte,
+	i.internal_ticket_nbr,
+	i.vendor_ticket_nbr,
+	i.comment_dsc,
+	i.mod_date,
+	i.mod_user_id
+from
+	issue i
+inner join status s on
+	i.status_cde = s.status_cde
+where
+	1 = 1
+" # End of $SQLCommand_STR
+	
+	<###############################################################
+	#
+	# Build the "where" clause
+	#
+	###############################################################>
+
+	if ($SearchStatusGroup_CDE -ne "N/A")
+		{
+			<###############################################################
+			#
+			# Build the Status Group Code portion of "where" clause
+			#
+			###############################################################>
+			
+			$SQLCommand_STR = $SQLCommand_STR + "
+and ('ALL' = '$User_SW' or i.assignee_cde = (select assignee_cde from assignee where user_nme = '$CurrentUser_NME'))
+and ('ALL' = '$SearchStatusGroup_CDE' or s.status_group_cde = '$SearchStatusGroup_CDE')
+" # End of $SQLCommand_STR
+		}
+		else
+		{
+			if ($SearchStatus_CDE -ne "N/A")
+			{
+				<###############################################################
+				#
+				# Build the Status Code portion of "where" clause
+				#
+				###############################################################>
+
+				$SQLCommand_STR = $SQLCommand_STR + "
+	and ('ALL' = '$User_SW' or i.assignee_cde = (select assignee_cde from assignee where user_nme = '$CurrentUser_NME'))
+	and ('ALL' = '$SearchStatus_CDE' or s.status_cde = '$SearchStatus_CDE')
+" # End of $SQLCommand_STR
+			}
+			else
+			{
+				if ($SearchIssue_ID_STR -ne "N/A")
+				{
+					<###############################################################
+					#
+					# Build the Issue ID portion of "where" clause
+					#
+					###############################################################>
+
+					$SQLCommand_STR = $SQLCommand_STR + "
+	and i.issue_id = $SearchIssue_ID_STR
+" # End of $SQLCommand_STR
+				}
+				else
+				{
+					if ($SearchWildCardText_STR -ne "N/A")
+					{
+						<###############################################################
+						#
+						# Build the Wild Card Text portion of "where" clause
+						#
+						###############################################################>
+					
+						$SQLCommand_STR = $SQLCommand_STR + "
+	and (
+		i.short_dsc              like '%$SearchWildCardText_STR%'
+		or i.long_dsc            like '%$SearchWildCardText_STR%'
+		or i.internal_ticket_nbr like '%$SearchWildCardText_STR%'
+		or i.vendor_ticket_nbr   like '%$SearchWildCardText_STR%'
+		or i.progress_dsc        like '%$SearchWildCardText_STR%'
+		or i.comment_dsc         like '%$SearchWildCardText_STR%'
+		)
+" # End of $SQLCommand_STR
+					}
+				}
+			}
+		}
+		
+	<###############################################################
+	#
+	# Build the "order by" clause
+	#
+	###############################################################>
+
+	$SQLCommand_STR = $SQLCommand_STR + "
+order by
+	i.assignee_cde,
+	case
+		when i.queue_order_nbr is null then 99
+		else                                queue_order_nbr
+	end,
+	i.status_cde desc,
+	i.due_dte
+	;" # End of $SQLCommand_STR
+
+	if ($Debug_SW -eq 1)
+	{
+		Write-Host $SQLCommand_STR
+	}
+
+	<###############################################################
+	#
+	# Retrieve data from database
+	#
+	###############################################################>
+
+	$dt = Get-Datatable $DatabaseConnection_STR $Database_NME $SQLCommand_STR
+
+	<###############################################################
+	#
+	# Put data into datagridview
+	#
+	###############################################################>
+
+	$datagridviewResults.DataSource = $dt.Tables[0]
+
+	<###############################################################
+	#
+	# Set datagridview column attributes
+	#
+	###############################################################>
+
+	$datagridviewResults.Columns[0].HeaderText = "Assignee";
+	$datagridviewResults.Columns[0].Width = 80;
+
+	$datagridviewResults.Columns[1].HeaderText = "ID";
+	$datagridviewResults.Columns[1].Width = 40;
+
+	$datagridviewResults.Columns[2].HeaderText = "Status Code";
+	$datagridviewResults.Columns[2].Width = 80;
+
+	$datagridviewResults.Columns[3].HeaderText = "Order";
+	$datagridviewResults.Columns[3].Width = 35;
+
+	$datagridviewResults.Columns[4].HeaderText = "Status Date";
+	$datagridviewResults.Columns[4].Width = 110;
+
+	$datagridviewResults.Columns[5].HeaderText = "Location";
+	$datagridviewResults.Columns[5].Width = 60;
+
+	$datagridviewResults.Columns[6].HeaderText = "Customer";
+	$datagridviewResults.Columns[6].Width = 90;
+
+	$datagridviewResults.Columns[7].HeaderText = "Short Description";
+	$datagridviewResults.Columns[7].Width = 260;
+
+	$datagridviewResults.Columns[8].HeaderText = "Long Description";
+	$datagridviewResults.Columns[8].Width = 120;
+
+	$datagridviewResults.Columns[9].HeaderText = "Create Date";
+	$datagridviewResults.Columns[9].Width = 110;
+
+	$datagridviewResults.Columns[10].HeaderText = "Due Date";
+	$datagridviewResults.Columns[10].Width = 110;
+
+	$datagridviewResults.Columns[11].HeaderText = "Internal Ticket";
+	$datagridviewResults.Columns[11].Width = 85;
+
+	$datagridviewResults.Columns[12].HeaderText = "Vendor Ticket";
+	$datagridviewResults.Columns[12].Width = 85;
+
+	$datagridviewResults.Columns[13].HeaderText = "Comment";
+	$datagridviewResults.Columns[13].Width = 120;
+
+	$datagridviewResults.Columns[14].HeaderText = "Row Modified Date";
+	$datagridviewResults.Columns[14].Width = 110;
+
+	$datagridviewResults.Columns[15].HeaderText = "Row Modified User";
+	$datagridviewResults.Columns[15].Width = 110;
+
+	# Display the row count
+
+	$DataGridRowCount_QTY = $datagridviewResults.RowCount
+
+	$textboxNumberOfRows_QTY.Text = "{0:N0}" -f $DataGridRowCount_QTY
+}
+
+$formMain_Load={
+	#TODO: Initialize Form Controls here
+
+	<###############################################################
+	#
+	# Display non-Production environment notification
+	#
+	###############################################################>
+
+	display_nonproduction_environment
+
+	post_data_on_form
+}
+
+$buttonSearch_Click={
+	#TODO: Place custom script here
+	SearchGrid
+}
+
+$buttonCreateNewIssue_Click={
+	#TODO: Place custom script here
+	
+#	$formMain.Hide()
+	Call-ChildFormEditIssue_psf 0
+#	$formMain.Close()
+}
+
+$datagridviewResults_ColumnHeaderMouseClick=[System.Windows.Forms.DataGridViewCellMouseEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.DataGridViewCellMouseEventArgs]
+	if($datagridviewResults.DataSource -is [System.Data.DataTable])
+	{
+		$column = $datagridviewResults.Columns[$_.ColumnIndex]
+		$direction = [System.ComponentModel.ListSortDirection]::Ascending
+		
+		if($column.HeaderCell.SortGlyphDirection -eq 'Descending')
+		{
+			$direction = [System.ComponentModel.ListSortDirection]::Descending
+		}
+
+		$datagridviewResults.Sort($datagridviewResults.Columns[$_.ColumnIndex], $direction)
+	}
+}
+
+$textboxSearch_KeyDown=[System.Windows.Forms.KeyEventHandler]{
+#Event Argument: $_ = [System.Windows.Forms.KeyEventArgs]
+	if($_.KeyCode -eq 'Enter' -and $buttonSearch.Enabled)
+	{
+		SearchGrid	
+		$_.SuppressKeyPress = $true
+	}
+}
+
+$buttonRefresh_Click={
+	#TODO: Place custom script here
+
+	$formMain.Hide()
+	
+	post_data_on_form
+	
+	$formMain.Show()
+}
+
+$buttonExit_Click={
+	#TODO: Place custom script here
+	
+        $formMain.Close()
+}
+
+$datagridviewResults_DoubleClick={
+	#TODO: Place custom script here
+	
+	# See https://www.sapien.com/forums/viewtopic.php?t=9004
+
+#	[void][System.Windows.Forms.MessageBox]::Show($datagridviewResults.SelectedCells[0].FormattedValue, 'You Chose')
+
+#	Write-Host $datagridviewResults.SelectedCells[0].FormattedValue
+
+#	$formMain.Hide()
+	Call-ChildFormEditIssue_psf $datagridviewResults.SelectedCells[1].FormattedValue # This is issue_id
+#	$formMain.Close()
+}
+]]></Code>
+  <Mode>0</Mode>
+  <Assemblies>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+  </Assemblies>
+</File>

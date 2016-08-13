@@ -1,0 +1,16 @@
+﻿<Project>
+  <Version>1.1</Version>
+  <FileID>fbb20784-d078-4c7f-a17a-2a036477e5c9</FileID>
+  <ProjectType>0</ProjectType>
+  <Folders />
+  <Files>
+    <File ReferenceName="" Build="0">Startup.pss</File>
+    <File ReferenceName="Call-MainForm_psf" Build="0">MainForm.psf</File>
+    <File ReferenceName="Call-Global_ps1" Build="0" CommandExtension="True">Globals.ps1</File>
+    <File ReferenceName="Call-ChildFormSearchForAssignee_psf" Build="0">ChildFormSearchForAssignee.psf</File>
+    <File ReferenceName="Call-ChildFormEditAssignee_psf" Build="0">ChildFormEditAssignee.psf</File>
+    <File ReferenceName="Call-ChildFormSearchForIssue_psf" Build="0">ChildFormSearchForIssue.psf</File>
+    <File ReferenceName="Call-ChildFormEditIssue_psf" Build="0">ChildFormEditIssue.psf</File>
+    <File ReferenceName="Call-ChildFormSearchForImplementation_psf" Build="0">ChildFormSearchForImplementation.psf</File>
+  </Files>
+</Project>

@@ -1,0 +1,13 @@
+﻿<ProjectState>
+  <Version>1.0</Version>
+  <FileID>fbb20784-d078-4c7f-a17a-2a036477e5c9</FileID>
+  <OpenFolders />
+  <OpenFiles>
+    <File>Startup.pss</File>
+    <File>Globals.ps1</File>
+    <File>MainForm.psf</File>
+    <File>ChildFormSearchForIssue.psf</File>
+    <File>ChildFormEditIssue.psf</File>
+    <File>ChildFormSearchForImplementation.psf</File>
+  </OpenFiles>
+</ProjectState>
