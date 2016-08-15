@@ -37,6 +37,8 @@ function Get-ScriptDirectory
 	#
 	# Execute a query and populate the $Datatable_OBJ object with the data
 	#
+	# This function support reads and writes to the database
+	#
 	###############################################################>
 
 function ExecuteDbDataReaderSqlQuery ($DatabaseConnection_STR, $Database_NME, $SQLCommand_STR)
@@ -96,6 +98,9 @@ $SQLCommand_STR"
 	#
 	# Execute a query and populate the $ds object with the data
 	#
+	# This function reads the database in a way that can be used to 
+	# populate a DataGridView
+	#
 	# This code is based on https://www.sapien.com/forums/viewtopic.php?f=21&t=10337&p=55948#p55948
 	#
 	###############################################################>
@@ -154,7 +159,20 @@ function clean_up_field ($EditType_SW, $InputField_OBJ)
 		Write-Host "    `$InputField_OBJ     = $InputField_OBJ"
 	}
 	
+	# Return "null" if  $InputField_OBJ is null
+	
+	if ($InputField_OBJ -eq $null)
+	{
+		$OutputField_OBJ = "null"
+		
+		return $OutputField_OBJ
+	}
+	
+	# Determine the datatype of $InputField_OBJ
+
 	$InputFieldType_STR = $InputField_OBJ.GetType().Name
+
+	# Determine the length of $InputField_OBJ
 
 	$Long_QTY = $InputField_OBJ.length
 
@@ -269,6 +287,10 @@ function Validate-FileName
 			}
         }
     }
+
+	# No invalid characters were found
+
+	return $true
 }
 
 function Validate-IsDate
@@ -400,7 +422,8 @@ function Validate-IsIP
 		return ([System.Net.IPAddress]::Parse($IP) -ne $null)
 	}
 	catch
-	{ }
+	{
+	}
 	
 	return $false
 }
@@ -530,9 +553,9 @@ function Validate-Path
 			System.Boolean
 	#>
 	[OutputType([Boolean])]
-	param([string]$Path)
+	param([char[]]$Path)
 	
-    if ($Path -eq $null -or $Path -eq "")
+    if ($Path -eq $null -or [string]$Path -eq "")
     {
 		return $false
 	}

@@ -6,8 +6,6 @@
     <File>Startup.pss</File>
     <File>Globals.ps1</File>
     <File>MainForm.psf</File>
-    <File>ChildFormSearchForIssue.psf</File>
     <File>ChildFormEditIssue.psf</File>
-    <File>ChildFormSearchForImplementation.psf</File>
   </OpenFiles>
 </ProjectState>
